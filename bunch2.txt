@@ -1,0 +1,1 @@
+Git add to staging area and git commit to the repository.
